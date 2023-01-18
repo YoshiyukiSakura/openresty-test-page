@@ -1,0 +1,1 @@
+Linking my account YoshiyukiSakura on GitHub with my address 0x693c3e3c6c861c637e920150abbd74660fc8af30 on EVM in hub.dev.local, and the challenge code is: 3919a1279759173b120c6370735f6e98. #LitentryVerifyMyAddress
